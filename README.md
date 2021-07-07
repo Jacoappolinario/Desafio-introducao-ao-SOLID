@@ -19,7 +19,7 @@ $ cd Desafio-introducao-ao-SOLID
 $ yarn install
 
 # Divirta-se
-$ npm start
+$ yarn dev
 ```
     
 ## Rodando os Testes
